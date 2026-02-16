@@ -6,12 +6,12 @@
 
 ---
 
-# 🌟 **Bryan Kiriama**
+# 🌟 **Jacklyne Owuor**
 ### *Full-Stack Wizard* 🧙‍♂️ | *DevOps Alchemist* ⚗️ | *System Architect*
 
-📍 Nairobi, Kenya / Kigali, Rwanda
-📬 **Email:** bryankiriama@gmail.com <br>
-🔗 **Portfolio:** https://personal-portfolio-nu-self-93.vercel.app/
+📍 Nairobi, Kenya 
+📬 **Email:** mercyowuor19@gmail.com <br>
+<!-- 🔗 **Portfolio:** https://personal-portfolio-nu-self-93.vercel.app/ -->
 
 ---
 
@@ -33,12 +33,12 @@ A passionate software engineer building **scalable systems**, **clean architectu
 <p align="left">
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/bryan-kiriama-b172ba27a/" target="_blank">
+<a href="https://www.linkedin.com/in/jacklyne-owuor-214b2b341/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="38" />
 </a>
 
 <!-- X / Twitter -->
-<a href="https://x.com/Kiriama_" target="_blank">
+<a href="_" target="_blank">
   <img src="https://skillicons.dev/icons?i=twitter" width="38" />
 </a>
 
@@ -83,5 +83,5 @@ A passionate software engineer building **scalable systems**, **clean architectu
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bryankiriama&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=jackiesamo&style=for-the-badge&color=blue" />
 </p>
